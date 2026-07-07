@@ -5,7 +5,7 @@
 ![Platform Mobile](https://img.shields.io/badge/Platform-Mobile-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Status Published](https://img.shields.io/badge/FAB-Published%20%26%20Reviewed-orange?style=for-the-badge)
 
-An advanced, feature-rich inventory and gameplay system designed specifically for mobile games in Unreal Engine 5. Built entirely using highly optimized visual scripting, offering extensive customization through centralized data structures.
+As a game developer, I designed and developed this advanced, feature-rich inventory and gameplay system to address the specific performance and UI challenges of mobile platforms in Unreal Engine 5. My goal was to build a production-ready framework entirely through highly optimized visual scripting, eliminating heavy overhead while offering extensive customization through centralized data structures.
 
 🛒 **Official Marketplace:** [Available on Epic Games FAB](https://www.fab.com/listings/d5c154a1-f591-4055-b635-ce68c0926244)
 
@@ -55,8 +55,7 @@ This system has successfully passed the rigorous technical vetting and review pr
 
 It is fully available for any developer or studio looking to fast-track their mobile project's core infrastructure:
 
-* **Official Product Link:** [Get the Mobile Inventory Kit on FAB](https://www.fab.com/listings/d5c154a1-f591-4055-b635-ce68c0926244)
-* 🛒 **Official Marketplace:** <a href="https://www.fab.com/listings/d5c154a1-f591-4055-b635-ce68c0926244" target="_blank">Available on Epic Games FAB</a>
+* 🛒**Official Product Link:** [Get the Mobile Inventory Kit on FAB](https://www.fab.com/listings/d5c154a1-f591-4055-b635-ce68c0926244)
 * **Production-Ready Guarantee:** The architecture, Blueprint structuring, and optimization standards meet the official requirements mandated by Epic Games for commercial-grade assets.
 * **Instant Integration:** Designed as a plug-and-play solution, allowing you to drop a complete, high-performance inventory framework into any ongoing mobile game prototype or active production line immediately.
 
