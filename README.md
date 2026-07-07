@@ -50,7 +50,7 @@ This system is built from the ground up prioritizing scalability, performance on
 ---
 ### 📝 Configuration Example (Data Structure)
 
-Here is an example of how items are structured and configured within the central Data Table:
+Here is an example of how items are dynamically structured and linked through the central DT_MIK_MasterTable system:
 
 ```json
 {
