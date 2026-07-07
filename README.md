@@ -18,6 +18,7 @@ This system is built from the ground up prioritizing scalability, performance on
 * 🧩 **100% Blueprint-Based:** Designed cleanly without C++ code dependencies, ensuring accessibility and rapid iteration for developers.
 * 📦 **Modular & Component-Based:** Built using isolated Actor Components. The entire inventory logic can be attached to any character or controller seamlessly without hardcoding dependencies.
 * 📊 **Data-Driven Configuration:** Everything from item stats, drop rates, to UI appearance is configured from a single central Data Table, offering over 460 unique combinations.
+<img width="1920" height="1080" alt="3_3D ITEM INDICATORS_Mobile-Inventory-Kit-Unreal-Engine-5_Shooter_joystick _Virtual_Leveling-Games_Unreal-Engine-Course-For-Beginners" src="https://github.com/user-attachments/assets/8a36ba5b-1795-479f-bdda-461590c41a43" />
 
 ---
 
@@ -37,6 +38,7 @@ This system is built from the ground up prioritizing scalability, performance on
 ### 🎯 Mobile-First Systems
 * **Professional Shooting Mechanics:** Integrated touch-optimized manual fire, auto-fire logic, and dynamic aiming reticles.
 * **Custom Virtual Joysticks:** Configurable, responsive on-screen joysticks tailored for fluid mobile navigation.
+<img width="1920" height="1080" alt="2_Inventory1_Mobile-Inventory-Kit-Unreal-Engine-5_Shooter_joystick _Virtual_Leveling-Games_Unreal-Engine-Course-For-Beginners" src="https://github.com/user-attachments/assets/d412a69d-a092-4068-b8a9-af68641bbe3a" />
 
 ---
 
@@ -44,3 +46,18 @@ This system is built from the ground up prioritizing scalability, performance on
 ✔️ **Time Saver:** Cuts down months of core infrastructure setup and troubleshooting down to a plug-and-play routine.
 ✔️ **Mobile Optimized:** Zero complex heavy ticks or costly visual over-draws, guaranteeing high-refresh-rate stability on mobile hardware.
 ✔️ **Production Ready:** Extensively tested structure designed to work smoothly out of the box for both prototypes and final market releases.
+
+---
+
+## 🚀 Verified & Published on Epic Games FAB
+
+This system has successfully passed the rigorous technical vetting and review process by **Epic Games**, granting it official publication status on the **FAB Marketplace**. 
+
+It is fully available for any developer or studio looking to fast-track their mobile project's core infrastructure:
+
+* **Official Product Link:** [Get the Mobile Inventory Kit on FAB](https://www.fab.com/listings/d5c154a1-f591-4055-b635-ce68c0926244)
+* 🛒 **Official Marketplace:** <a href="https://www.fab.com/listings/d5c154a1-f591-4055-b635-ce68c0926244" target="_blank">Available on Epic Games FAB</a>
+* **Production-Ready Guarantee:** The architecture, Blueprint structuring, and optimization standards meet the official requirements mandated by Epic Games for commercial-grade assets.
+* **Instant Integration:** Designed as a plug-and-play solution, allowing you to drop a complete, high-performance inventory framework into any ongoing mobile game prototype or active production line immediately.
+
+---
