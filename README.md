@@ -58,5 +58,6 @@ It is fully available for any developer or studio looking to fast-track their mo
 * 🛒**Official Product Link:** [Get the Mobile Inventory Kit on FAB](https://www.fab.com/listings/d5c154a1-f591-4055-b635-ce68c0926244)
 * **Production-Ready Guarantee:** The architecture, Blueprint structuring, and optimization standards meet the official requirements mandated by Epic Games for commercial-grade assets.
 * **Instant Integration:** Designed as a plug-and-play solution, allowing you to drop a complete, high-performance inventory framework into any ongoing mobile game prototype or active production line immediately.
+<img width="337" height="106" alt="FAB" src="https://github.com/user-attachments/assets/7fcc64a5-d0f6-4088-831d-759faade7eb0" />
 
 ---
