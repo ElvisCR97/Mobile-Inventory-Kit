@@ -48,7 +48,23 @@ This system is built from the ground up prioritizing scalability, performance on
 ✔️ **Production Ready:** Extensively tested structure designed to work smoothly out of the box for both prototypes and final market releases.
 
 ---
+### 📝 Configuration Example (Data Structure)
 
+Here is an example of how items are structured and configured within the central Data Table:
+
+```json
+{
+  "DT_MIK_MasterTable": {
+    "Description": "Core system database",
+    "Connections": {
+      "DT_MIK_Weapons": "Weapon configuration setups",
+      "DT_MIK_BodyArmor": "Armor protection metrics",
+      "DT_MIK_Resources": "Stackable consumable items",
+      "DT_MIK_Other": "Miscellaneous utility items"
+    }
+  }
+}
+```
 ## 🚀 Verified & Published on Epic Games FAB
 
 This system has successfully passed the rigorous technical vetting and review process by **Epic Games**, granting it official publication status on the **FAB Marketplace**. 
